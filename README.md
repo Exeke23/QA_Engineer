@@ -24,7 +24,7 @@
   - Описание: Тестирование дева сайта kirpich-centr.com, в папке проекта чек-листы и отчёт по найденным дефектам.
 
 - [Проект 2](https://github.com/Exeke23/QA_Engineer/tree/main/Project_2), учебный: Тестирование REST API
-  - Описание: Тренажер Restful-Booker для тестирование API с помощью Postman. В папке проекта скрины ответов и коллекция запросов в json формате
+  - Описание: Тренажер [Restful-Booker](https://restful-booker.herokuapp.com/apidoc/index.html) для тестирование API с помощью Postman. В папке проекта скрины ответов и коллекция запросов в json формате
 
 #### Инструменты
 - DevTools 
