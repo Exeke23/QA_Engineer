@@ -23,7 +23,7 @@
 - [Проект 1](https://github.com/Exeke23/QA_Engineer/tree/main/Project_1): Тестирование интернет-магазина
   - Описание: набор тест-кейсов, чек-листы и отчёт по найденным дефектам.
 
-- Проект 2, учебный: Тестирование REST API
+- [Проект 2](https://github.com/Exeke23/QA_Engineer/tree/main/Project_2), учебный: Тестирование REST API
   - Описание: тестирование API с помощью Postman.
 
 #### Инструменты
